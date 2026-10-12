@@ -1,0 +1,2 @@
+duplicate_id.xml:6: error: duplicate android:id 'title' (first declared at line 5)
+duplicate_id.xml: 1 error

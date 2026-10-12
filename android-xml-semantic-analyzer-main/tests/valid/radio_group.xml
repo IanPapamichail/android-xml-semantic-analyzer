@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- RadioGroup whose checkedButton and count match its children -->
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RadioGroup
+        android:id="@+id/size_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkedButton="@id/size_medium"
+        android:count="3">
+
+        <RadioButton android:id="@+id/size_small"  android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <RadioButton android:id="@+id/size_medium" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <RadioButton android:id="@+id/size_large"  android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </RadioGroup>
+
+</LinearLayout>

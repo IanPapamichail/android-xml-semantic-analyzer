@@ -1,0 +1,3 @@
+invalid_layout_size.xml:2: error: android:layout_width has invalid value "huge" (expected wrap_content, match_parent or a positive size)
+invalid_layout_size.xml:3: error: android:layout_height has invalid value "0dp" (expected wrap_content, match_parent or a positive size)
+invalid_layout_size.xml: 2 errors

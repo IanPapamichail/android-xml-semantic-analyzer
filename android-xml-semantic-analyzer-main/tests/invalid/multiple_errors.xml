@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Every rule broken once: all errors must be reported in a single run -->
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="-1"
+    android:padding="0">
+
+    <TextView android:id="@+id/label" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/label" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="60"
+        android:progress="80"/>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkedButton="@id/missing"
+        android:count="3">
+
+        <RadioButton android:id="@+id/first"  android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <RadioButton android:id="@+id/second" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </RadioGroup>
+
+</LinearLayout>

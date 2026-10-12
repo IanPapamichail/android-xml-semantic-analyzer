@@ -1,0 +1,2 @@
+progress_exceeds_max.xml:1: error: android:progress (80) is greater than android:max (60) in <ProgressBar>
+progress_exceeds_max.xml: 1 error

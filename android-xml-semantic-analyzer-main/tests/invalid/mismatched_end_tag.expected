@@ -1,0 +1,2 @@
+mismatched_end_tag.xml:4: error: closing tag </RelativeLayout> does not match <LinearLayout> opened at line 1
+mismatched_end_tag.xml: 1 error

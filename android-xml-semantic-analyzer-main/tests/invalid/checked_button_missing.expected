@@ -1,0 +1,2 @@
+checked_button_missing.xml:4: error: android:checkedButton 'option_c' is not a RadioButton in this RadioGroup
+checked_button_missing.xml: 1 error

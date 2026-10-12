@@ -1,0 +1,2 @@
+padding_not_positive.xml:4: error: android:padding must be > 0, got 0
+padding_not_positive.xml: 1 error

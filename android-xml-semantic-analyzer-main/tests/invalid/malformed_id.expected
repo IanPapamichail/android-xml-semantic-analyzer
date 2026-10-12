@@ -1,0 +1,2 @@
+malformed_id.xml:2: error: android:id must be "@+id/name", got "title"
+malformed_id.xml: 1 error
