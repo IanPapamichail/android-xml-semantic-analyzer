@@ -1,0 +1,9 @@
+<RadioGroup
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:checkedButton="@id/option_c">
+
+    <RadioButton android:id="@+id/option_a" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <RadioButton android:id="@+id/option_b" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+
+</RadioGroup>

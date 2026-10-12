@@ -1,0 +1,13 @@
+<FrameLayout
+    android:layout_width="320dp"
+    android:layout_height="48dp"
+    android:padding="8dp">
+
+    <ProgressBar
+        android:id="@+id/download_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="100"/>
+
+</FrameLayout>

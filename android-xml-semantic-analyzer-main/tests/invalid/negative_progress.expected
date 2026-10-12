@@ -1,0 +1,2 @@
+negative_progress.xml:4: error: android:progress must be >= 0, got -5
+negative_progress.xml: 1 error

@@ -1,0 +1,2 @@
+radio_count_mismatch.xml:1: error: RadioGroup declares android:count=3 but contains 2 RadioButton(s)
+radio_count_mismatch.xml: 1 error

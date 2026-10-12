@@ -1,0 +1,2 @@
+radio_count_not_positive.xml:4: error: android:count must be a positive integer, got "0"
+radio_count_not_positive.xml: 1 error

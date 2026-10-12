@@ -1,0 +1,7 @@
+multiple_errors.xml:5: error: android:layout_height has invalid value "-1" (expected wrap_content, match_parent or a positive size)
+multiple_errors.xml:6: error: android:padding must be > 0, got 0
+multiple_errors.xml:9: error: duplicate android:id 'label' (first declared at line 8)
+multiple_errors.xml:11: error: android:progress (80) is greater than android:max (60) in <ProgressBar>
+multiple_errors.xml:20: error: android:checkedButton 'missing' is not a RadioButton in this RadioGroup
+multiple_errors.xml:17: error: RadioGroup declares android:count=3 but contains 2 RadioButton(s)
+multiple_errors.xml: 6 errors
